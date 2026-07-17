@@ -19,14 +19,20 @@ This analysis aims to answer questions such as:
 
 ## Dataset
 
-The dataset contains restaurant transaction data, including:
+This project uses a synthetic restaurant sales dataset generated with Python.
+
+The dataset contains 20,000 restaurant transactions, including:
 
 - Order information
-- Product details
-- Sales revenue
 - Customer information
+- Product details
+- Sales revenue and profit
+- Discounts
 - Payment methods
-- Dates and times
+- Restaurant locations
+- Dates and order times
+
+The dataset was created for data analysis practice and business insights generation.
 
 ## Data Analysis Process
 
